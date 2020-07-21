@@ -9,7 +9,7 @@ The analysis of data is done in 3 parts, analysis of each part is done in differ
 
 Part 1: a) Identifying the differences in the Market Value of occupied vs vacant housing units over the period of 2005 through 2013 using t-test for difference in means.
 
-        b) Comparing Fair Market Rent (FMR) values across different years using Paired t-test for difference in means.
+Part 1: b) Comparing Fair Market Rent (FMR) values across different years using Paired t-test for difference in means.
 
 Part 2: Using Regression Analysis to identify important factors (out of various factors) that affect "Current Market Value" for the year 2013. Various Regression models were built with various combinations of factors and the best model was chosen on the basis of R-square value.
 
